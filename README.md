@@ -1,6 +1,3 @@
-# REDHEADPACER
-Manufacturing practice
-
 # Cтруктура проекта:
 
 | Папка/Файл               | Описание                                                                        |
